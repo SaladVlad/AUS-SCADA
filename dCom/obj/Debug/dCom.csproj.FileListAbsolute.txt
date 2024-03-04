@@ -47,3 +47,30 @@ E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dC
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\dCom\obj\Debug\dCom.exe
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\dCom\obj\Debug\dCom.pdb
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\RtuCfg.txt
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\dCom.exe.config
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\dCom.exe
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\dCom.pdb
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\Common.dll
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\Modbus.dll
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\ProcessingModule.dll
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\Common.pdb
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\Modbus.pdb
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\bin\Debug\ProcessingModule.pdb
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\ControlWindow.g.cs
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\App.g.cs
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom_MarkupCompile.cache
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom_MarkupCompile.lref
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\ControlWindow.baml
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\MainWindow.baml
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.g.resources
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.exe
+C:\Users\PC\Documents\GitHub\AUS-SCADA\dCom\obj\Debug\dCom.pdb
